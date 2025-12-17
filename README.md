@@ -1,8 +1,9 @@
 
 ## 📚✨ Library Management System (MERN Stack)
 
-Bu proje, **MERN Stack (MongoDB, Express.js, React, Node.js)** kullanılarak geliştirilmiş, hem öğretici hem de keyifli bir **kitap yönetim uygulamasıdır** 📖💚
-Amaç; kitap ekleme, listeleme ve kitaplar üzerinde temel kütüphane işlemlerini (ödünç alma, geri verme, silme) uçtan uca yönetebilmektir.
+Bu proje, **MERN Stack (MongoDB, Express.js, React, Node.js)** kullanılarak geliştirilmiş, hem öğretici hem de keyifli bir **kitap yönetim uygulamasıdır**
+
+📖💚Amaç; kitap ekleme, listeleme ve kitaplar üzerinde temel kütüphane işlemlerini (ödünç alma, geri verme, silme) uçtan uca yönetebilmektir.
 
 ---
 
@@ -255,15 +256,24 @@ Her türlü geri bildirim, öneri veya iş birliği için benimle iletişime ge�
 
 Aşağıda uygulamaya ait bazı ekran görüntülerini bulabilirsiniz:
 
-🏠 Landing Page – Uygulamanın giriş ekranı --->  <img width="1904" height="918" alt="landing page" src="https://github.com/user-attachments/assets/12458539-776d-436d-98b5-f5e68be81730" />
+🏠 Landing Page – Uygulamanın giriş ekranı :
 
-📋 Explore Books – Kitapların listelendiği tablo görünümü
+<img width="1904" height="918" alt="landing page" src="https://github.com/user-attachments/assets/12458539-776d-436d-98b5-f5e68be81730" />
 
-📝 Publish New Title – Yeni kitap ekleme formu
+ ---
+
+📋 Explore Books – Kitapların listelendiği tablo görünümü:
+
+https://github.com/user-attachments/assets/4246b487-1d17-4aad-8026-1c3c577de0c1 
+
+ ---
+
+📝 Publish New Title – Yeni kitap ekleme formu:
 
 https://github.com/user-attachments/assets/cb543e52-fdd0-48a8-9b4d-403f9d6937c6
 
-https://github.com/user-attachments/assets/4246b487-1d17-4aad-8026-1c3c577de0c1
+
+
 
 
 
