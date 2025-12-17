@@ -248,7 +248,7 @@ Her türlü geri bildirim, öneri veya iş birliği için benimle iletişime ge�
 
 📧 Email: akgundogduesr@gmail.com
 
-💼 LinkedIn: linkedin.com/in/esra-akgundogdu (isteğe bağlı ekleyebilirsin)
+💼 LinkedIn: www.linkedin.com/in/esra-akgun
 
  ---
 
