@@ -257,11 +257,50 @@ Her türlü geri bildirim, öneri veya iş birliği için benimle iletişime ge�
 
 Aşağıda uygulamaya ait bazı ekran görüntülerini bulabilirsiniz:
 
-🏠 Landing Page – Uygulamanın giriş ekranı --->
+🏠 Landing Page – Uygulamanın giriş ekranı --->  <img width="1904" height="918" alt="landing page" src="https://github.com/user-attachments/assets/12458539-776d-436d-98b5-f5e68be81730" />
 
 📋 Explore Books – Kitapların listelendiği tablo görünümü
 
 📝 Publish New Title – Yeni kitap ekleme formu
+
+https://github.com/user-attachments/assets/cb543e52-fdd0-48a8-9b4d-403f9d6937c6
+
+https://github.com/user-attachments/assets/4246b487-1d17-4aad-8026-1c3c577de0c1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
