@@ -249,9 +249,7 @@ Her türlü geri bildirim, öneri veya iş birliği için benimle iletişime ge�
 
 💼 LinkedIn: linkedin.com/in/esra-akgundogdu (isteğe bağlı ekleyebilirsin)
 
-💻 GitHub: github.com/ (kullanıcı adını ekleyebilirsin) 
-
----
+ ---
 
 ## 🖼️ Ekran Görüntüleri:
 
